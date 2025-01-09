@@ -1,6 +1,6 @@
-# README - Rede Neural Simples em Python
+# README - Rede Neural sem fremeworks em Python
 
-Este é um exemplo de implementação de uma Rede Neural Simples em Python, utilizada para realizar predições simples. O objetivo principal desta implementação é demonstrar o funcionamento básico de uma rede neural para problemas de regressão.
+Este é um exemplo de implementação de uma Rede Neural em Python, utilizada para realizar predições simples. O objetivo principal desta implementação é demonstrar o funcionamento básico de uma rede neural para problemas de regressão.
 
 ## Requisitos
 
